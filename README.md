@@ -1,6 +1,4 @@
 # os
-learning os
-book
 
 | Category | Name |
 |:--------:|------|
